@@ -1,0 +1,30 @@
+body
+{
+background-color: cadetblue;
+
+}
+header h1
+{
+text-align: center;
+font-size: 150px;
+color: midnightblue;
+}
+nav li
+{
+    color:blue;
+    display:inline-block;
+    font-size: 50px;
+    padding: 10px;
+        }
+ img
+ {
+     width: 250px;
+ } 
+
+ 
+ 
+ section h2
+ {
+     font-size: 50px;
+     color: red;
+ }
